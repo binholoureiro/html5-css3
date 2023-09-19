@@ -1,0 +1,5 @@
+HTML é (CONTEÚDO):  Textos, fotos, videos, tabelas.
+
+CSS é (DESIGN): cores, imagens por cima de imagens, tamanhos, sombras, posicionamento...
+
+JavaScript é:  Menus, animações, popups, validações
