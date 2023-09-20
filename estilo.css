@@ -102,7 +102,7 @@ h2 {
     text-align: left;
     padding: 7px 10px;
     margin-top: 10px;
-    font-family: "idroid";
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .conteudo p {
@@ -119,7 +119,7 @@ h3 {
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    font-family: "idroid";
+    font-family: Arial, Helvetica, sans-serif;
     background-image: linear-gradient(to right, rgba(10, 114, 10, 0.493), rgba(35, 129, 35, 0.123));
 }
 
