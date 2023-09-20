@@ -109,8 +109,7 @@ h2 {
     padding: 1px 10px;
     text-indent: 2em;
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.1em;
-    /* Espaçamento entre LINHAS */
+    line-height: 1.1em; /* Espaçamento entre LINHAS */
 }
 
 h3 {
@@ -196,4 +195,3 @@ footer {
     color: white;
 }
 
-@media (max-width:550px) {}
