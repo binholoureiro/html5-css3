@@ -166,7 +166,7 @@ img {
     display: block;
     overflow: auto;
     border: 1px solid black;
-    margin: 5px 30px;
+    margin: 5px 10px;
     border-radius: 10px;
     text-align: justify;
 }
